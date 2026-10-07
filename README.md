@@ -1,5 +1,6 @@
 # protein-classification-gnn
 
+## Protein Classification with Graph Neural Networks
 **Does incorporating graph connectivity improve protein classification compared to using node features alone?**
 
 ## Purpose
